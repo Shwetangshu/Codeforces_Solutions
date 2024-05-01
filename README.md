@@ -4,7 +4,7 @@ This repository contains my solutions to Codeforces problems written in various 
 
 ## Structure
 
-Each solution is organized by problem ID and name.
+Each solution is organized by problem ID and name in format "ID_NAME".
 
 ## Usage
 
