@@ -1,6 +1,6 @@
 # Codeforces Solutions
 
-This repository contains my solutions to Codeforces problems.
+This repository contains my solutions to Codeforces problems written in various languages.
 
 ## Structure
 
